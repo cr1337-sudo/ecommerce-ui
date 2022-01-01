@@ -9,7 +9,7 @@ import Cart from "./pages/home/Cart";
 function App() {
   return (
     <div className="App">
-  <Cart/>
+    <Cart/>
     </div>
   );
 }
